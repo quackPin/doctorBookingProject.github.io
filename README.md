@@ -24,7 +24,7 @@ if you have any feedback, please reach out to me at iabhijit97@gmail.com
 
 ##LICENSE
 
-[MIT LICENSE] (LICENSE)
+[MIT License](LICENSE)
 
 
 
