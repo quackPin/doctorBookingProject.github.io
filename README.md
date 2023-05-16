@@ -4,7 +4,7 @@ This project is under development phase. (currently working on frontend)
 ## FEATURES
 - JAVA
 - SPRING BOOT
-- HTML, CSS, JVASCRIPT
+- HTML, CSS, JavaScript
 - BOOTSTRAP5
 
 ## DEMO
