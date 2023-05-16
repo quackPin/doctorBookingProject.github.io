@@ -1,6 +1,6 @@
 # Anyone can book an appoinment to their nearest Doctors
 
-This project is under development phase. 
+This project is under development phase. (currently working on frontend)
 ## FEATURES
 - JAVA
 - SPRING BOOT
