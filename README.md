@@ -1,4 +1,4 @@
-# Amyone can book an appoinment to their nearest Doctors
+# Anyone can book an appoinment to their nearest Doctors
 
 This project is under development phase. 
 I am using Java as a backend. 
