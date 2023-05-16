@@ -2,7 +2,7 @@
 
 This project is under development phase. 
 I am using Java as a backend. 
-HTML5, css, JavaScript and it's cdn libararies for frontend along with Bootstrap5.
+HTML5, css, JavaScript and it's cdn libraries for frontend along with Bootstrap5.
 
 
 Visit this for beter view -->
